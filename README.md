@@ -25,3 +25,4 @@ Run files 01 to 04 in order on an empty SQL Server instance.
 - Transactions (COMMIT and ROLLBACK)
 - Error handling (TRY...CATCH and THROW)
 - Test scripts with expected results in comments
+Updated from terminal.
